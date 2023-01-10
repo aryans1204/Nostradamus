@@ -1,2 +1,2 @@
 # Nostradamus
-Recommender Engine
+Simple Weather Forecaster App
