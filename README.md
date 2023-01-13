@@ -1,2 +1,3 @@
 # Nostradamus
-Simple Weather Forecaster App
+Simple Weather Forecaster Node.js + Express.js Engine.
+
